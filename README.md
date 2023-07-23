@@ -2,8 +2,8 @@
 
 > Aussie programmer, based in Finland. Specialising in web, mobile and systems development: Javascript, Typescript, React, Terraform, Objective-C.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=perry-mitchell&count_private=true&show_icons=true&theme=onedark) 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=perry-mitchell&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=perry-mitchell&count_private=true&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=onedark) 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=perry-mitchell&theme=onedark&date_format=M%20j%5B%2C%20Y%5D) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perry-mitchell&layout=compact&theme=onedark)
 
 :zap: **Social**: [Mastodon](https://infosec.exchange/@perry_mitchell) / [Reddit](https://www.reddit.com/user/perry_mitchell) / [Keybase](https://keybase.io/perrymitchell) / [Twitter](https://twitter.com/perry_mitchell?lang=en)
 
