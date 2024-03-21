@@ -8,3 +8,5 @@
 :zap: **Social**: <a rel="me" href="https://infosec.exchange/@perry_mitchell"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a> / [Keybase](https://keybase.io/perrymitchell)
 
 :closed_lock_with_key: **Buttercup**: [buttercup.pw](https://buttercup.pw) / [GitHub](https://github.com/buttercup) / [Keybase](https://keybase.io/team/bcup)
+
+![NPM Downloads](https://img.shields.io/npm-stat/dm/perrymitchell?style=flat-square&logo=npm&color=%2377DD77)
